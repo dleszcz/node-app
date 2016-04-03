@@ -1,0 +1,27 @@
+{
+  "name": "node-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dljs/node-app.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dljs/node-app/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "morgan": "~1.7.0",
+    "cookie-parser": "latest",
+    "express-session": "latest",
+    "mongoose": "latest",
+    "ejs": "latest",
+    "body-parser": "latest"
+  }
+}
