@@ -22,6 +22,11 @@
     "express-session": "latest",
     "mongoose": "latest",
     "ejs": "latest",
-    "body-parser": "latest"
+    "body-parser": "latest",
+    "passport": "~0.3.2",
+    "passport-local": "~1.0.0",
+    "connect-flash": "~0.1.1",
+    "bcrypt": "~0.8.5",
+    "passport-facebook": "~2.1.0"
   }
 }
